@@ -6,7 +6,7 @@ I build Telegram bots, AI-powered tools and web applications.
 
 ## Featured Projects
 
-### AI Resume Analyzer
+## [AI Resume Analyzer](https://github.com/Dilanpol/ai-resume-analyzer)
 
 AI-powered resume analysis platform with:
 
@@ -16,12 +16,11 @@ AI-powered resume analysis platform with:
 * AI-generated cover letters
 * PDF export
 
-Repository:
-https://github.com/Dilanpol/ai-resume-analyzer
+Repository: [View Repository](https://github.com/Dilanpol/ai-resume-analyzer)
 
 ---
 
-### Telegram Payment Access Bot
+## [Telegram Payment Access Bot](https://github.com/Dilanpol/telegram-payment-access-bot)
 
 Telegram bot for automated payment processing and access delivery.
 
@@ -33,8 +32,7 @@ Features:
 * Invite link generation
 * SQLite integration
 
-Repository:
-https://github.com/Dilanpol/telegram-payment-access-bot
+Repository: [View Repository](https://github.com/Dilanpol/telegram-payment-access-bot)
 
 ## Tech Stack
 
