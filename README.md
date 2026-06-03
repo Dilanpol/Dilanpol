@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Danil 👋
 
-<!--
-**Dilanpol/Dilanpol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Automation & Telegram Bot Developer.
 
-Here are some ideas to get you started:
+I build Telegram bots, AI-powered tools and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### AI Resume Analyzer
+
+AI-powered resume analysis platform with:
+
+* Match score calculation
+* Missing skills detection
+* Resume improvement suggestions
+* AI-generated cover letters
+* PDF export
+
+Repository:
+https://github.com/Dilanpol/ai-resume-analyzer
+
+---
+
+### Telegram Payment Access Bot
+
+Telegram bot for automated payment processing and access delivery.
+
+Features:
+
+* Payment processing
+* Webhook handling
+* Automatic access granting
+* Invite link generation
+* SQLite integration
+
+Repository:
+https://github.com/Dilanpol/telegram-payment-access-bot
+
+## Tech Stack
+
+* Python
+* JavaScript
+* Node.js
+* Express.js
+* Telegram Bot API
+* REST APIs
+* AI APIs
+* SQLite
+
+## Currently Focused On
+
+Building AI tools, Telegram bots and automation solutions.
