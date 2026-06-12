@@ -2,7 +2,7 @@
 
 AI Automation & Telegram Bot Developer.
 
-I build Telegram bots, AI-powered tools and web applications.
+I build AI-powered tools, workflow automations, Telegram bots and web applications.
 
 ## Featured Projects
 
@@ -20,6 +20,23 @@ Repository: [View Repository](https://github.com/Dilanpol/ai-resume-analyzer)
 
 ---
 
+## [AI Lead Management & Qualification System](https://github.com/Dilanpol/ai-lead-management-system)
+
+AI-powered lead qualification and workflow automation platform built with Node.js, n8n, Google Gemini and Supabase.
+
+Features:
+
+* AI lead classification
+* Lead priority scoring
+* Automated workflow processing
+* Webhook integrations
+* AI-generated lead summaries
+* Structured lead storage in Supabase
+
+Repository: [View Repository](https://github.com/Dilanpol/ai-lead-management-system)
+
+---
+
 ## [Telegram Payment Access Bot](https://github.com/Dilanpol/telegram-payment-access-bot)
 
 Telegram bot for automated payment processing and access delivery.
@@ -34,17 +51,33 @@ Features:
 
 Repository: [View Repository](https://github.com/Dilanpol/telegram-payment-access-bot)
 
+---
+
 ## Tech Stack
 
-* Python
-* JavaScript
+### Automation & AI
+
+* n8n
+* Google Gemini
+* REST APIs
+* Webhooks
+* Workflow Automation
+
+### Backend
+
 * Node.js
 * Express.js
-* Telegram Bot API
-* REST APIs
-* AI APIs
+* Python
+
+### Databases
+
+* Supabase
 * SQLite
+
+### Messaging Platforms
+
+* Telegram Bot API
 
 ## Currently Focused On
 
-Building AI tools, Telegram bots and automation solutions.
+Building AI tools, workflow automations, lead management systems and Telegram bots.
